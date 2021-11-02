@@ -14,3 +14,5 @@ Horiseon wanted their site's codebase to be accessible to everyone, and have the
 - Made some comments to the HTML so every section is seperated making it easier for other coders
 
 ## Demo
+
+https://jessangarcia.github.io/horiseon/
